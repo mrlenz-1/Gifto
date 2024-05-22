@@ -1,4 +1,4 @@
-<h1 align="left">Hello there , Im Gifto!</h1>
+<h1 align="left">Hello there , I'm Gifto!</h1>
 <h2> I'm a Developer </h2>
 
 
