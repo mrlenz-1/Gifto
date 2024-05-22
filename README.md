@@ -1,4 +1,4 @@
-<h3 align="center">Hello there , Im Gifto!</h3>
+<h1 align="left">Hello there , Im Gifto!</h1>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,reactjs,laravel,mongodb,express&theme=dark)](https://skillicons.dev)
